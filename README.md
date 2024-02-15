@@ -14,3 +14,7 @@ The idea of ​​this repository is to develop a web application, so that the u
   
   ## The Adventure Start
 
+  The first step was to create  a layout  to test aplication 
+
+  ![](./imagens/layout_v00.png)
+
