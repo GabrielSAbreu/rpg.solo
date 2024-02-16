@@ -1,16 +1,21 @@
 .display{
     width: 70vw;
+    height: 40vh;
     background-color: darkolivegreen;
     margin: auto;
     padding: 5px;
-    color: grey;
+    color: #ede9e9;
+    border-radius: 10px;
 }
 
 .dice{
     width: 25vw;
-    background-color: grey;
-    margin-top: 10px;
+    height: 25vh;
+    background-color: #8fdea0;
+    margin: auto;
+    /*margin-top: 10px;*/
     padding: 5px;
     color: white;
     display: inline-block;
+    border-radius: 10px;
 }
