@@ -27,5 +27,7 @@ In the game the player has three possibilites:
 
   The first step was to create  a layout  to test aplication 
 
-  ![](./imagens/layout_v00.png)
+  ![Layout version 00, created for deploy test ](./imagens/layout_v00.png)
+
+  You can view in [RPG SOLO](https://gabrielsabreu.github.io/rpg.solo/)
 
