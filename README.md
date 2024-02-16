@@ -15,8 +15,12 @@ In the game the player has three possibilites:
   -Escape (after thirty (30) rounds)
 
 *REQUIREMENTS*
--The player need to roller a dice;
--The enemy need to roller a dice and player need a see this result
+<ul>
+  <li>-The player need to roller a dice;
+</li>
+  <li>-The enemy need to roller a dice and player need a see this result
+</li>
+</ul>
 
 <hr>
 
