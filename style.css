@@ -1,6 +1,8 @@
 
 #container{
+    width: 70vw;
     margin: auto;
+    padding: 5px;
     background-color: #6c6969;
     border: 1px solid;
     border-radius:5px;
