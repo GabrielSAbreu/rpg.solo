@@ -9,7 +9,8 @@
 }
 
 .display{
-    width: 70vw;
+    width: auto;
+    max-width: 65%;
     height: 40vh;
     background-color: darkolivegreen;
     margin: auto;
