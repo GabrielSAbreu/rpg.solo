@@ -1,6 +1,9 @@
 
 #container{
     margin: auto;
+    background-color: #6c6969;
+    border: 1px solid;
+    border-radius:5px;
 }
 
 .display{
