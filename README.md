@@ -7,6 +7,17 @@ The idea of ​​this repository is to develop a web application, so that the u
 
 ##### **Observation: I will write step by step of process in English, as way to practice and lear the language**
 
+## THE CUSTOMER
+For this project, a fiction client needs a website where the person can play a solo RPG, but the application needs to be built only with HTML, CSS and Vanilla Javascript.
+In the game the player has three possibilites:
+  -Movement (section,meeting,treasure or trap)
+  -Battle / damage (combat initiative,)
+  -Escape (after thirty (30) rounds)
+
+*REQUIREMENTS*
+-The player need to roller a dice;
+-The enemy need to roller a dice and player need a see this result
+
 <hr>
 
 # **DAY 01** 

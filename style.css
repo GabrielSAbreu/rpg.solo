@@ -1,4 +1,13 @@
 .display{
-    width: 100px;
+    width: 70vw;
     background-color: darkolivegreen;
+    padding: 5px;
+    color: grey;
+}
+
+.dice{
+    width: 25vw;
+    background-color: grey;
+    padding: 5px;
+    color: white;
 }
