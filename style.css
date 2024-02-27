@@ -1,14 +1,12 @@
 
-#container{
-    width: 70vw;
-    margin: auto;
-    padding: 5px;
-    background-color: #6c6969;
-    border: 1px solid;
-    border-radius:5px;
+body{
+    background-color: #545452;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
 }
-
-.display{
+.screen {
     width: auto;
     max-width: 65%;
     height: 40vh;
@@ -18,17 +16,49 @@
     color: #ede9e9;
     border-radius: 10px;
     text-align:center;
+    display: flex;
+    justify-content: space-around;
+}
+
+.controler{
+   
+    height: 40vh;
+    background-color: rgba(198, 203, 188, 0.125);
+    color: #ffff;
+    margin-top: 5px;
+    padding: 5px;
+    border-radius: 10px;
+    text-align:center;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.player, .enemy{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+
 }
 
 .dice{
-    width: 25vw;
+
+    width: 17vw;
     height: 25vh;
     background-color: #8fdea0;
-    margin-top: 10px;
+    margin: 10px;
     padding: 5px;
     color: white;
-    display: inline-block;
     border-radius: 10px;
     text-align:center;
 
+}
+
+.life, .atk, .def{
+    margin-top: 5px;
+    width: 15vh;
+    background-color: rgb(75, 128, 75);
+    display: flex;
+    justify-content: space-around;
 }
