@@ -49,6 +49,8 @@ In the game the player has three possibilites:
    -Attack (Sword)
    -Defense(shield) 
    This idea genereat the layout version 01
+   <hr>
+   
    ![Layout version 01](./imagens/layout_v01.png)
 
 
