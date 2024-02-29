@@ -35,3 +35,21 @@ In the game the player has three possibilites:
 
   You can view in [RPG SOLO](https://gabrielsabreu.github.io/rpg.solo/)
 
+<hr>
+
+# **DAYs 02, 03, 04 and 05**
+  <h3>February 20, 22, 23 and 27, 2024</h3>
+  
+  ## Multiple number 1s in the dice
+
+  This days I work in configured the layout.
+  In first time working in struture HTML, thing about areas based layout version 00, but I find more interesinting add three displays for feedback to player.
+  This displays is:
+   -Life   (heart)
+   -Attack (Sword)
+   -Defense(shield) 
+   This idea genereat the layout version 01
+   ![Layout version 01](./imagens/layout_v01.png)
+
+
+
