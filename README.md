@@ -42,16 +42,25 @@ In the game the player has three possibilites:
   
   ## Multiple number 1s in the dice
 
-  This days I work in configured the layout.
-  In first time working in struture HTML, thing about areas based layout version 00, but I find more interesinting add three displays for feedback to player.
-  This displays is:
-   -Life   (heart)
+  During these days I worked on configuring the layout.
+   First I started structuring the HTML, then I thought about version 00 of the layout based on message (screen) and interaction (data) areas, but I found it more interesting to add three displays for feedback to the player.
+  These displays are:
+   -Life (heart)
    -Attack (Sword)
-   -Defense(shield) 
-   This idea genereat the layout version 01
+   -Defense (shield)
+They are repeated for the player's encounters inside the dungeon
+   This idea generated layout version 01.
    <hr>
-   
+
    ![Layout version 01](./imagens/layout_v01.png)
+
+
+   After a few tries using the grid layout, I chose to use flexbox layout.
+  The division  in divs resulted in the next estruture:
+
+  ![layout thinking about the structure of divs and using flexbox](./imagens/layout_v01_Estruture.png)
+
+   
 
 
 
